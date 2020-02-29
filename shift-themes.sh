@@ -2,8 +2,8 @@
 
 # TEMAS E WALLPAPERS
 
-PATH_LIGHT_WALLPAPER="/home/$1/Pictures/wallpapers/wallpaper-condigo6-light.png"
-PATH_DARK_WALLPAPER="/home/$1/Pictures/wallpapers/wallpaper-condigo6-dark.png"
+PATH_LIGHT_WALLPAPER="/home/$1/Pictures/wallpapers/wallpaper-light.png"
+PATH_DARK_WALLPAPER="/home/$1/Pictures/wallpapers/wallpaper-dark.png"
 
 VSCODE_LIGHT_THEME="Github Light Theme - Gray"
 VSCODE_DARK_THEME="Abyss"
