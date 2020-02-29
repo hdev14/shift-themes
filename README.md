@@ -23,7 +23,7 @@ Após isso, irá abrir um editor de texto, dessa forma basta adicionar esta linh
 >```0-55/5 * * * * /home/joao/Documents/shift-themes.sh joao```
 
 <br />
-Essa tarefa irá executar este script a cada 5 minutos. Porém você pode escolher o intervalo mais adequado para você. Basta pesquisar sobre regras do crontab.
+Essa tarefa irá executar este script a cada 5 minutos. Porém você pode escolher o intervalo mais adequado para você, basta pesquisar sobre regras do crontab.
 
 ### 
 > <b>OBS:</b> Esse script foi desenvolvido na distro XUBUNTU. Dessa forma se você usa outra distro que utiliza XCFE, talvez seja preciso fazer alterações.
