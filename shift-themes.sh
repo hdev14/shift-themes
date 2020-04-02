@@ -15,7 +15,7 @@ XFCE_LIGHT_THEME="Qogir-light"
 XFCE_DARK_THEME="Arc-Black-Steel"
 
 # Usado para que seja possível a troca de temas e wallpapers.
-PID=$(pgrep xfce4-session)
+PID=$(pgrep xfce4-session -n)
 export DBUS_SESSION_BUS_ADDRESS=$(grep -z DBUS_SESSION_BUS_ADDRESS /proc/$PID/environ|cut -d= -f2-)
 
 VSCODE_SETTINGS="/home/$1/.config/Code/User/settings.json"
